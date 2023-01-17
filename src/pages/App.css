@@ -1,0 +1,35 @@
+*{
+    font-size:24px;
+}
+.container{
+    width: 95vw;
+    height: 90vh;
+    background-color: #f5f5f5;
+    margin-left:5vw;
+    margin-right:5vw;
+}
+.inputbox{
+    padding:auto;
+    position: absolute;
+    bottom:0;
+    width: 92vw;
+    left:0;
+}
+.width{
+    width: 50%;
+    margin-left:30%;
+}
+.messages{
+    
+    
+}
+.inbox{
+    position: absolute;
+    top: 0;
+    margin:auto;
+    margin-top:2vh;
+    width: 90%;
+    height: 70%;
+    border: 1px solid black;
+    overflow: auto;
+}
